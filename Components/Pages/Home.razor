@@ -1,0 +1,66 @@
+﻿@page "/"
+@using Contact = ContactBook.Models.Contact
+@using ContactBook.Services
+@inject ContactDatabase Database
+
+<MudContainer>
+    <MudText Typo="Typo.h4" Class="mb-4">Contact Book</MudText>
+
+    <MudPaper Class="pa-4 mb-4">
+        <MudTextField @bind-Value="newName" Label="Name" Class="mb-2" />
+        <MudTextField @bind-Value="newPhone" Label="Phone" Class="mb-2" InputType="InputType.Telephone" MaxLength="11" />
+        <MudButton Variant="Variant.Filled" Color="Color.Primary" OnClick="AddContact">Add Contact</MudButton>
+    </MudPaper>
+
+    <MudTextField @bind-Value="searchText" Label="Search by name" Class="mb-4" Immediate="true" />
+
+    <MudTable Items="FilteredContacts">
+        <HeaderContent>
+            <MudTh>Name</MudTh>
+            <MudTh>Phone</MudTh>
+            <MudTh></MudTh>
+        </HeaderContent>
+        <RowTemplate>
+            <MudTd>@context.Name</MudTd>
+            <MudTd>@context.Phone</MudTd>
+            <MudTd>
+                <MudIconButton Icon="@Icons.Material.Filled.Delete" Color="Color.Error" OnClick="() => DeleteContact(context)" />
+            </MudTd>
+        </RowTemplate>
+    </MudTable>
+</MudContainer>
+
+@code {
+    private List<Contact> contacts = new();
+    private string newName = string.Empty;
+    private string newPhone = string.Empty;
+    private string searchText = string.Empty;
+
+    protected override async Task OnInitializedAsync()
+    {
+        contacts = await Database.GetContactsAsync();
+    }
+
+    private IEnumerable<Contact> FilteredContacts =>
+        contacts.Where(c => c.Name.Contains(searchText, StringComparison.OrdinalIgnoreCase));
+
+   
+        private async Task AddContact()
+{
+    if (string.IsNullOrWhiteSpace(newName)) return;
+    if (string.IsNullOrWhiteSpace(newPhone) || !newPhone.All(char.IsDigit)) return;
+
+        var contact = new Contact { Name = newName, Phone = newPhone };
+        await Database.SaveContactAsync(contact);
+        contacts = await Database.GetContactsAsync();
+
+        newName = string.Empty;
+        newPhone = string.Empty;
+    }
+
+    private async Task DeleteContact(Contact contact)
+    {
+        await Database.DeleteContactAsync(contact);
+        contacts = await Database.GetContactsAsync();
+    }
+}
