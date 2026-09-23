@@ -1,3 +1,3 @@
-2026/09/21-11:35:45.182 4f38 Reusing MANIFEST C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
-2026/09/21-11:35:45.184 4f38 Recovering log #3
-2026/09/21-11:35:45.192 4f38 Reusing old log C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000003.log 
+2026/09/23-12:23:31.056 98ac Reusing MANIFEST C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/23-12:23:31.059 98ac Recovering log #3
+2026/09/23-12:23:31.065 98ac Reusing old log C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000003.log 

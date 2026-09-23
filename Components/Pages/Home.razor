@@ -3,31 +3,86 @@
 @using ContactBook.Services
 @inject ContactDatabase Database
 
-<MudContainer>
-    <MudText Typo="Typo.h4" Class="mb-4">Contact Book</MudText>
+<MudContainer MaxWidth="MaxWidth.Medium" Class="mt-0 pa-0">
 
-    <MudPaper Class="pa-4 mb-4">
-        <MudTextField @bind-Value="newName" Label="Name" Class="mb-2" />
-        <MudTextField @bind-Value="newPhone" Label="Phone" Class="mb-2" InputType="InputType.Telephone" MaxLength="11" />
-        <MudButton Variant="Variant.Filled" Color="Color.Primary" OnClick="AddContact">Add Contact</MudButton>
-    </MudPaper>
+    @if (!showForm)
+    {
+        <!-- Header Bar -->
+        <MudPaper Elevation="0" Class="pa-6 mb-4" Style="background: linear-gradient(135deg, #1a237e 0%, #283593 100%); border-radius: 0 0 16px 16px;">
+            <MudStack Row="true" Justify="Justify.SpaceBetween" AlignItems="AlignItems.Center">
+                <div>
+                    <MudText Typo="Typo.h4" Style="color:white; font-weight:600;">Contact List</MudText>
+                    <MudText Typo="Typo.body2" Style="color:#c5cae9;">Manage all your contacts in one place</MudText>
+                </div>
+                <MudButton Variant="Variant.Filled" Style="background-color:#ff6f00; color:white;" StartIcon="@Icons.Material.Filled.Add" Class="rounded-lg" OnClick="OpenAddForm">Add New</MudButton>
+            </MudStack>
+        </MudPaper>
 
-    <MudTextField @bind-Value="searchText" Label="Search by name" Class="mb-4" Immediate="true" />
+        <MudContainer Class="pa-4 pt-0">
+            <!-- Summary Card -->
+            <MudPaper Elevation="2" Class="pa-4 mb-4 rounded-lg d-flex align-center justify-space-between">
+                <div>
+                    <MudText Typo="Typo.h5" Style="color:#1a237e; font-weight:700;">@contacts.Count</MudText>
+                    <MudText Typo="Typo.body2" Style="color:gray;">Total Contacts</MudText>
+                </div>
+                <MudPaper Elevation="0" Class="pa-3 rounded-lg" Style="background-color:#1a237e;">
+                    <MudIcon Icon="@Icons.Material.Filled.Contacts" Style="color:white;" Size="Size.Medium" />
+                </MudPaper>
+            </MudPaper>
 
-    <MudTable Items="FilteredContacts">
-        <HeaderContent>
-            <MudTh>Name</MudTh>
-            <MudTh>Phone</MudTh>
-            <MudTh></MudTh>
-        </HeaderContent>
-        <RowTemplate>
-            <MudTd>@context.Name</MudTd>
-            <MudTd>@context.Phone</MudTd>
-            <MudTd>
-                <MudIconButton Icon="@Icons.Material.Filled.Delete" Color="Color.Error" OnClick="() => DeleteContact(context)" />
-            </MudTd>
-        </RowTemplate>
-    </MudTable>
+            <MudTextField @bind-Value="searchText" Label="Search by name" Variant="Variant.Outlined" Adornment="Adornment.Start" AdornmentIcon="@Icons.Material.Filled.Search" Class="mb-4" Immediate="true" />
+
+            <MudPaper Elevation="1" Class="rounded-lg pa-2">
+                <MudTable Items="FilteredContacts" Hover="true" Striped="true" Dense="false" Elevation="0">
+                    <HeaderContent>
+                        <MudTh Style="background-color:#e8eaf6;">Name</MudTh>
+                        <MudTh Style="background-color:#e8eaf6;">Phone</MudTh>
+                        <MudTh Style="background-color:#e8eaf6; text-align:right;">Actions</MudTh>
+                    </HeaderContent>
+                    <RowTemplate>
+                        <MudTd>@context.Name</MudTd>
+                        <MudTd>@context.Phone</MudTd>
+                        <MudTd Style="text-align:right;">
+                            <MudIconButton Icon="@Icons.Material.Filled.Edit" Style="color:#1a237e;" Size="Size.Small" OnClick="() => StartEdit(context)" />
+                            <MudIconButton Icon="@Icons.Material.Filled.Delete" Color="Color.Error" Size="Size.Small" OnClick="() => DeleteContact(context)" />
+                        </MudTd>
+                    </RowTemplate>
+                </MudTable>
+            </MudPaper>
+        </MudContainer>
+    }
+    else
+    {
+        <!-- Header Bar (Form) -->
+        <MudPaper Elevation="0" Class="pa-6 mb-4" Style="background: linear-gradient(135deg, #1a237e 0%, #283593 100%); border-radius: 0 0 16px 16px;">
+            <MudStack Row="true" Justify="Justify.SpaceBetween" AlignItems="AlignItems.Center">
+                <div>
+                    <MudText Typo="Typo.h4" Style="color:white; font-weight:600;">@(editingContact == null ? "Add New Contact" : "Edit Contact")</MudText>
+                    <MudText Typo="Typo.body2" Style="color:#c5cae9;">@(editingContact == null ? "Create a new contact entry" : "Update contact details")</MudText>
+                </div>
+                <MudButton Variant="Variant.Outlined" Style="color:white; border-color:white;" StartIcon="@Icons.Material.Filled.ArrowBack" Class="rounded-lg" OnClick="CloseForm">Back</MudButton>
+            </MudStack>
+        </MudPaper>
+
+        <MudContainer Class="pa-4 pt-0">
+            <MudPaper Elevation="2" Class="pa-6 rounded-lg">
+                <MudStack Spacing="4" Style="max-width: 450px;">
+                    <MudTextField @bind-Value="newName" Label="Name" Variant="Variant.Outlined" Adornment="Adornment.Start" AdornmentIcon="@Icons.Material.Filled.Person" />
+                    <MudTextField @bind-Value="newPhone" Label="Phone" Variant="Variant.Outlined" Adornment="Adornment.Start" AdornmentIcon="@Icons.Material.Filled.Phone" InputType="InputType.Telephone" MaxLength="11" />
+
+                    @if (editingContact == null)
+                    {
+                        <MudButton Variant="Variant.Filled" Style="background-color:#1a237e; color:white;" Class="rounded-lg" FullWidth="true" OnClick="AddContact">Save</MudButton>
+                    }
+                    else
+                    {
+                        <MudButton Variant="Variant.Filled" Style="background-color:#1a237e; color:white;" Class="rounded-lg" FullWidth="true" OnClick="SaveEdit">Save Changes</MudButton>
+                    }
+                </MudStack>
+            </MudPaper>
+        </MudContainer>
+    }
+
 </MudContainer>
 
 @code {
@@ -35,6 +90,8 @@
     private string newName = string.Empty;
     private string newPhone = string.Empty;
     private string searchText = string.Empty;
+    private Contact? editingContact = null;
+    private bool showForm = false;
 
     protected override async Task OnInitializedAsync()
     {
@@ -44,18 +101,54 @@
     private IEnumerable<Contact> FilteredContacts =>
         contacts.Where(c => c.Name.Contains(searchText, StringComparison.OrdinalIgnoreCase));
 
-   
-        private async Task AddContact()
-{
-    if (string.IsNullOrWhiteSpace(newName)) return;
-    if (string.IsNullOrWhiteSpace(newPhone) || !newPhone.All(char.IsDigit)) return;
+    private void OpenAddForm()
+    {
+        editingContact = null;
+        newName = string.Empty;
+        newPhone = string.Empty;
+        showForm = true;
+    }
+
+    private void StartEdit(Contact contact)
+    {
+        editingContact = contact;
+        newName = contact.Name;
+        newPhone = contact.Phone;
+        showForm = true;
+    }
+
+    private void CloseForm()
+    {
+        showForm = false;
+        editingContact = null;
+        newName = string.Empty;
+        newPhone = string.Empty;
+    }
+
+    private async Task AddContact()
+    {
+        if (string.IsNullOrWhiteSpace(newName)) return;
+        if (string.IsNullOrWhiteSpace(newPhone) || !newPhone.All(char.IsDigit)) return;
 
         var contact = new Contact { Name = newName, Phone = newPhone };
         await Database.SaveContactAsync(contact);
         contacts = await Database.GetContactsAsync();
 
-        newName = string.Empty;
-        newPhone = string.Empty;
+        CloseForm();
+    }
+
+    private async Task SaveEdit()
+    {
+        if (editingContact == null) return;
+        if (string.IsNullOrWhiteSpace(newName)) return;
+        if (string.IsNullOrWhiteSpace(newPhone) || !newPhone.All(char.IsDigit)) return;
+
+        editingContact.Name = newName;
+        editingContact.Phone = newPhone;
+        await Database.UpdateContactAsync(editingContact);
+        contacts = await Database.GetContactsAsync();
+
+        CloseForm();
     }
 
     private async Task DeleteContact(Contact contact)

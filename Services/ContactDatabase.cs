@@ -24,6 +24,11 @@ namespace ContactBook.Services
             return _database.InsertAsync(contact);
         }
 
+        public Task<int> UpdateContactAsync(Contact contact)
+        {
+            return _database.UpdateAsync(contact);
+        }
+
         public Task<int> DeleteContactAsync(Contact contact)
         {
             return _database.DeleteAsync(contact);

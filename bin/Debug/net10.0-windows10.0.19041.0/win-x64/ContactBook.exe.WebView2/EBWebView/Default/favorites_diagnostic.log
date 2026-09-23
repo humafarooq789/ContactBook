@@ -17,3 +17,272 @@
 2026-09-21 06:35:44.967: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-09-21 06:35:44.967: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-09-21 06:36:33.706: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 07:21:50.387: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 07:21:50.387: [INFO] Profiles total count: 1
+2026-09-21 07:21:50.388: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T06:35:45.620Z
+2026-09-21 07:21:50.388: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 07:21:50.388: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T06:35:45.620Z
+2026-09-21 07:21:50.388: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 07:21:50.388: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 07:21:50.388: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 07:21:50.388: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 07:26:16.749: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 07:26:26.876: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 07:26:26.876: [INFO] Profiles total count: 1
+2026-09-21 07:26:26.877: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T07:26:05.432Z
+2026-09-21 07:26:26.877: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 07:26:26.877: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T07:26:05.432Z
+2026-09-21 07:26:26.877: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 07:26:26.877: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 07:26:26.877: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 07:26:26.877: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 07:32:50.022: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 07:32:57.975: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 07:32:57.975: [INFO] Profiles total count: 1
+2026-09-21 07:32:57.976: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T07:26:27.122Z
+2026-09-21 07:32:57.976: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 07:32:57.976: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T07:26:27.122Z
+2026-09-21 07:32:57.976: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 07:32:57.976: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 07:32:57.976: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 07:32:57.976: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 07:33:12.904: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 07:38:15.241: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 07:38:15.241: [INFO] Profiles total count: 1
+2026-09-21 07:38:15.242: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T07:32:58.488Z
+2026-09-21 07:38:15.242: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 07:38:15.242: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T07:32:58.488Z
+2026-09-21 07:38:15.242: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 07:38:15.242: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 07:38:15.242: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 07:38:15.242: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 07:38:36.681: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 07:42:51.320: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 07:42:51.320: [INFO] Profiles total count: 1
+2026-09-21 07:42:51.320: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T07:38:26.982Z
+2026-09-21 07:42:51.320: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 07:42:51.320: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T07:38:26.982Z
+2026-09-21 07:42:51.320: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 07:42:51.320: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 07:42:51.320: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 07:42:51.320: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 07:47:29.059: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 07:47:33.290: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 07:47:33.290: [INFO] Profiles total count: 1
+2026-09-21 07:47:33.290: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T07:47:26.932Z
+2026-09-21 07:47:33.290: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 07:47:33.290: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T07:47:26.932Z
+2026-09-21 07:47:33.290: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 07:47:33.290: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 07:47:33.290: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 07:47:33.290: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 07:54:30.281: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 07:54:39.303: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 07:54:39.303: [INFO] Profiles total count: 1
+2026-09-21 07:54:39.303: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T07:54:27.172Z
+2026-09-21 07:54:39.303: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 07:54:39.303: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T07:54:27.172Z
+2026-09-21 07:54:39.303: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 07:54:39.303: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 07:54:39.303: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 07:54:39.303: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 07:56:26.492: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 07:57:34.590: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 07:57:34.590: [INFO] Profiles total count: 1
+2026-09-21 07:57:34.591: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T07:54:57.830Z
+2026-09-21 07:57:34.591: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 07:57:34.591: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T07:54:57.830Z
+2026-09-21 07:57:34.591: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 07:57:34.591: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 07:57:34.591: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 07:57:34.591: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 08:12:12.001: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 08:12:16.617: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 08:12:16.617: [INFO] Profiles total count: 1
+2026-09-21 08:12:16.617: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T08:12:10.365Z
+2026-09-21 08:12:16.617: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 08:12:16.617: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T08:12:10.365Z
+2026-09-21 08:12:16.617: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 08:12:16.617: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 08:12:16.617: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 08:12:16.617: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 08:12:20.653: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 08:13:16.245: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 08:13:16.245: [INFO] Profiles total count: 1
+2026-09-21 08:13:16.245: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T08:12:16.834Z
+2026-09-21 08:13:16.245: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 08:13:16.245: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T08:12:16.834Z
+2026-09-21 08:13:16.245: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 08:13:16.245: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 08:13:16.245: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 08:13:16.245: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 08:13:27.238: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 09:32:19.572: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 09:32:19.572: [INFO] Profiles total count: 1
+2026-09-21 09:32:19.572: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T08:13:17.507Z
+2026-09-21 09:32:19.572: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 09:32:19.573: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T08:13:17.507Z
+2026-09-21 09:32:19.573: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 09:32:19.573: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 09:32:19.573: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 09:32:19.573: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 09:32:30.992: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 09:32:41.592: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 09:32:41.592: [INFO] Profiles total count: 1
+2026-09-21 09:32:41.592: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T09:32:25.716Z
+2026-09-21 09:32:41.592: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 09:32:41.592: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T09:32:25.716Z
+2026-09-21 09:32:41.592: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 09:32:41.592: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 09:32:41.592: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 09:32:41.592: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 09:32:56.543: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 09:33:40.302: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 09:33:40.302: [INFO] Profiles total count: 1
+2026-09-21 09:33:40.302: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T09:32:52.928Z
+2026-09-21 09:33:40.302: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 09:33:40.302: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T09:32:52.928Z
+2026-09-21 09:33:40.302: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 09:33:40.302: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 09:33:40.302: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 09:33:40.302: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 09:34:48.254: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 09:40:52.062: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 09:40:52.062: [INFO] Profiles total count: 1
+2026-09-21 09:40:52.062: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T09:33:41.093Z
+2026-09-21 09:40:52.062: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 09:40:52.062: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T09:33:41.093Z
+2026-09-21 09:40:52.062: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 09:40:52.062: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 09:40:52.062: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 09:40:52.062: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 09:59:28.467: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 09:59:43.477: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 09:59:43.477: [INFO] Profiles total count: 1
+2026-09-21 09:59:43.477: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T09:44:06.614Z
+2026-09-21 09:59:43.477: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 09:59:43.477: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T09:44:06.614Z
+2026-09-21 09:59:43.477: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 09:59:43.477: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 09:59:43.477: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 09:59:43.478: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 09:59:58.528: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 10:00:47.723: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 10:00:47.723: [INFO] Profiles total count: 1
+2026-09-21 10:00:47.723: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T09:59:43.888Z
+2026-09-21 10:00:47.723: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 10:00:47.723: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T09:59:43.888Z
+2026-09-21 10:00:47.723: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 10:00:47.723: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 10:00:47.723: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 10:00:47.724: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 10:08:49.107: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 10:09:25.836: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 10:09:25.836: [INFO] Profiles total count: 1
+2026-09-21 10:09:25.836: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T10:08:37.889Z
+2026-09-21 10:09:25.836: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 10:09:25.837: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T10:08:37.889Z
+2026-09-21 10:09:25.837: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 10:09:25.837: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 10:09:25.837: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 10:09:25.837: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 10:21:51.607: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 10:22:42.074: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 10:22:42.074: [INFO] Profiles total count: 1
+2026-09-21 10:22:42.074: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T10:14:11.430Z
+2026-09-21 10:22:42.074: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-21 10:22:42.074: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T10:14:11.430Z
+2026-09-21 10:22:42.074: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 10:22:42.074: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 10:22:42.074: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 10:22:42.074: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 10:35:56.465: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 05:04:35.307: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-22 05:04:35.307: [INFO] Profiles total count: 1
+2026-09-22 05:04:35.307: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T10:31:00.599Z
+2026-09-22 05:04:35.307: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-22 05:04:35.307: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-21T10:31:00.599Z
+2026-09-22 05:04:35.307: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 05:04:35.307: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 05:04:35.307: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 05:04:35.307: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 07:28:37.931: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 07:35:13.795: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-22 07:35:13.795: [INFO] Profiles total count: 1
+2026-09-22 07:35:13.795: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-22T07:08:59.939Z
+2026-09-22 07:35:13.795: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-22 07:35:13.795: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-22T07:08:59.939Z
+2026-09-22 07:35:13.795: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 07:35:13.795: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 07:35:13.795: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 07:35:13.795: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 07:35:46.109: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 07:36:32.285: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-22 07:36:32.285: [INFO] Profiles total count: 1
+2026-09-22 07:36:32.285: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-22T07:35:14.011Z
+2026-09-22 07:36:32.285: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-22 07:36:32.285: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-22T07:35:14.011Z
+2026-09-22 07:36:32.285: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 07:36:32.285: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 07:36:32.285: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 07:36:32.285: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 07:48:18.565: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 07:51:38.558: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-22 07:51:38.558: [INFO] Profiles total count: 1
+2026-09-22 07:51:38.558: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-22T07:48:16.625Z
+2026-09-22 07:51:38.558: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-22 07:51:38.558: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-22T07:48:16.625Z
+2026-09-22 07:51:38.558: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 07:51:38.558: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 07:51:38.559: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 07:51:38.559: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 07:52:06.730: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 08:00:04.128: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-22 08:00:04.128: [INFO] Profiles total count: 1
+2026-09-22 08:00:04.128: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-22T07:51:38.986Z
+2026-09-22 08:00:04.128: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-22 08:00:04.128: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-22T07:51:38.986Z
+2026-09-22 08:00:04.128: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 08:00:04.128: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 08:00:04.128: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 08:00:04.128: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 08:00:38.874: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-23 06:54:00.182: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-23 06:54:00.182: [INFO] Profiles total count: 1
+2026-09-23 06:54:00.183: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-22T08:00:20.721Z
+2026-09-23 06:54:00.183: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-23 06:54:00.183: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-22T08:00:20.721Z
+2026-09-23 06:54:00.183: [INFO] OnDoneLoading sync enabled: 0
+2026-09-23 06:54:00.183: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-23 06:54:00.183: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-23 06:54:00.183: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-23 07:03:23.620: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-23 07:07:04.344: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-23 07:07:04.344: [INFO] Profiles total count: 1
+2026-09-23 07:07:04.344: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-23T07:03:22.309Z
+2026-09-23 07:07:04.344: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-23 07:07:04.344: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-23T07:03:22.309Z
+2026-09-23 07:07:04.344: [INFO] OnDoneLoading sync enabled: 0
+2026-09-23 07:07:04.345: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-23 07:07:04.345: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-23 07:07:04.345: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-23 07:07:25.649: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-23 07:16:09.414: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-23 07:16:09.414: [INFO] Profiles total count: 1
+2026-09-23 07:16:09.415: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-23T07:07:04.763Z
+2026-09-23 07:16:09.415: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-23 07:16:09.415: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-23T07:07:04.763Z
+2026-09-23 07:16:09.415: [INFO] OnDoneLoading sync enabled: 0
+2026-09-23 07:16:09.415: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-23 07:16:09.415: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-23 07:16:09.415: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-23 07:16:34.139: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-23 07:23:30.785: [INFO] CurrentProfilePath: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-23 07:23:30.785: [INFO] Profiles total count: 1
+2026-09-23 07:23:30.786: [INFO] Profile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-23T07:16:09.734Z
+2026-09-23 07:23:30.786: [INFO] LastUsedProfileDir: C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default
+2026-09-23 07:23:30.786: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\pc\ContactBook\bin\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.exe.WebView2\EBWebView\Default lastActive=2026-09-23T07:16:09.734Z
+2026-09-23 07:23:30.786: [INFO] OnDoneLoading sync enabled: 0
+2026-09-23 07:23:30.786: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-23 07:23:30.786: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-23 07:23:30.786: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

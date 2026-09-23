@@ -555,6 +555,7 @@ C:\Users\pc\ContactBook\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauiimage.
 C:\Users\pc\ContactBook\obj\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.AssemblyInfoInputs.cache
 C:\Users\pc\ContactBook\obj\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.AssemblyInfo.cs
 C:\Users\pc\ContactBook\obj\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.csproj.CoreCompileInputs.cache
+C:\Users\pc\ContactBook\obj\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.sourcelink.json
 C:\Users\pc\ContactBook\obj\Debug\net10.0-windows10.0.19041.0\win-x64\XamlC.stamp
 C:\Users\pc\ContactBook\obj\Debug\net10.0-windows10.0.19041.0\win-x64\ContactB.61B6FB92.Up2Date
 C:\Users\pc\ContactBook\obj\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.dll
@@ -577,4 +578,3 @@ C:\Users\pc\ContactBook\obj\Debug\net10.0-windows10.0.19041.0\win-x64\pri.resfil
 C:\Users\pc\ContactBook\obj\Debug\net10.0-windows10.0.19041.0\win-x64\qualifiers.txt
 C:\Users\pc\ContactBook\obj\Debug\net10.0-windows10.0.19041.0\win-x64\qualifiers.txt.intermediate
 C:\Users\pc\ContactBook\obj\Debug\net10.0-windows10.0.19041.0\win-x64\MultipleQualifiersPerDimensionFound.txt
-C:\Users\pc\ContactBook\obj\Debug\net10.0-windows10.0.19041.0\win-x64\ContactBook.sourcelink.json
